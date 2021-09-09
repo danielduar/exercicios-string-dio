@@ -1,4 +1,4 @@
-##Exercicios de Fixação de String na Linguagem Java
+#Exercicios de Fixação de String na Linguagem Java
 
 Uma pequena classe para poder treinar o uso de string e suas funções no Java 
 
